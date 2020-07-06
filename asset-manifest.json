@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_boostrap_pc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react_boostrap_pc/static/js/main.8f52d931.chunk.js",
+    "main.js.map": "/react_boostrap_pc/static/js/main.8f52d931.chunk.js.map",
+    "runtime-main.js": "/react_boostrap_pc/static/js/runtime-main.4d21b9e7.js",
+    "runtime-main.js.map": "/react_boostrap_pc/static/js/runtime-main.4d21b9e7.js.map",
+    "static/js/2.af9837b4.chunk.js": "/react_boostrap_pc/static/js/2.af9837b4.chunk.js",
+    "static/js/2.af9837b4.chunk.js.map": "/react_boostrap_pc/static/js/2.af9837b4.chunk.js.map",
+    "index.html": "/react_boostrap_pc/index.html",
+    "precache-manifest.6ec0e596f525c7a142c29360b4cd3132.js": "/react_boostrap_pc/precache-manifest.6ec0e596f525c7a142c29360b4cd3132.js",
+    "service-worker.js": "/react_boostrap_pc/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react_boostrap_pc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.af9837b4.chunk.js.LICENSE.txt": "/react_boostrap_pc/static/js/2.af9837b4.chunk.js.LICENSE.txt",
+    "static/media/sky.jpg": "/react_boostrap_pc/static/media/sky.de718bf8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d21b9e7.js",
+    "static/js/2.af9837b4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8f52d931.chunk.js"
+  ]
+}
